@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day1.iml" filepath="$PROJECT_DIR$/day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standalonejar/standalonejar.iml" filepath="$PROJECT_DIR$/standalonejar/standalonejar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../started/started.iml" filepath="$PROJECT_DIR$/../started/started.iml" />
+    </modules>
+  </component>
+</project>
